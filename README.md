@@ -9,4 +9,4 @@ Welcome to my coding github profile! I'm a web developer with expertise in HTML,
 📫 You can reach me at [nikola.vujisic@robotcode.me](mailto:nikola.vujisic@robotcode.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/nikola-vujisic).
 
 All my repositories are private! 
-Do you need to know about me? Here's my <a href='./nikola-cv.pdf' download> CV </a>
+Do you need to know about me? Here's my <a href='./nikola-cv_compressed.pdf' download> CV </a>
