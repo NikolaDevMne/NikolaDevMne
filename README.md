@@ -6,6 +6,6 @@ Welcome to my coding github profile! I'm a passionate web developer with experti
 
 💼 Let's collaborate and shape the future of the web together! Feel free to explore my repositories and join me on this exciting journey.
 
-📫 You can reach me at [Your Email] or connect with me on [LinkedIn](https://www.linkedin.com/in/nikola-vujisic).
+📫 You can reach me at nikola.vujisic@robotcode.me or connect with me on [LinkedIn](https://www.linkedin.com/in/nikola-vujisic).
 
 All my repositories are private!
