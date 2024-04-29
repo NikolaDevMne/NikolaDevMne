@@ -1,6 +1,6 @@
 ## Hello, I'm Nikola! 👋
 
-🌐 Web Developer | 💻 Frontend {with some backend knowledge} 
+🌐 Web Developer 
 
 Welcome to my coding github profile! I'm a web developer with experience in HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, React, Next.js for frontend, and PHP, MySQL, WordPress, ProcessWire for backend development.
 
